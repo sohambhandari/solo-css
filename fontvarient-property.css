@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>font varient property</title>
+<style>
+p. normal {
+font-varient: normal;
+}
+p. small {
+font-varient: small-caps;
+}
+</style>
+</head>
+<body>
+
+<p class="normal">Paragraph font variant set to normal.</p>
+<p class="small">Paragraph font variant set to small-caps.</p>
+
+</body>
+</html>

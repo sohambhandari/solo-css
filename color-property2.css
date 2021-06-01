@@ -1,0 +1,18 @@
+<html>
+<body>
+<h1>This is a heading</h1>
+<p class="example">This is a paragraph</p>
+</body>
+<style>
+h1 {
+color: #0000ff;
+}
+p.example {
+color: rgb(255,0,0);
+}
+</style>
+</html>
+
+<!--Another way of defining colors is using hexadecimal values and RGB.
+Hexadecimal form is a pound sign (#) followed by at most, 6 hex values (0-F).
+RGB defines the individual values for Red, Green, and Blue. -->

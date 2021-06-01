@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>color property</title>
+<style>
+p. examle {
+color:green;
+}
+</style>
+</head>
+<body>
+
+<p class="example">The text inside the paragraph is green.</p>
+The text outside the paragraph is black (by default). 
+
+</body>
+</html>

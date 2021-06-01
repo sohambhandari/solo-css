@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>font size property</title>
+<style>
+
+p.small {
+ font-size: small;
+ }
+ p.medium {
+ font-size: medium;
+ }
+ p.large {
+ font-size: large;
+ }
+ p.xlarge {
+ font-size: x-large;
+ }
+</style>
+</head>
+<body>
+
+<p class="small">
+   Paragraph text set to be small
+</p>
+<p class="medium">
+   Paragraph text set to be medium
+</p>
+<p class="large">
+   Paragraph text set to be large
+</p>
+<p class="xlarge">
+   Paragraph text set to be very large
+</p>
+
+</body>
+</html>
+
+
+<!--You can also use numerical values in pixels (px)or ems(em = relative size unit) to manipulate font size.
+ browser default size is 16px.
+ To calculate the em size, just use the following formula: em = pixels / 16  -->

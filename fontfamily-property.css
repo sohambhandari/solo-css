@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>font family property</title>
+<style>
+
+p.serif {
+font family: "times new roman",times, serif;
+}
+p.sansserif {
+font-family: helvetica, arial, sans-serif;
+}
+p.monospace {
+font-family: "courier new", courier, monospace;
+}
+p.cursive {
+font-family: florance, cursive
+}
+p.fantasy {
+font-family: blippo, fantasy;
+}
+</style>
+</head>
+<body>
+
+<p class="serif">
+   This is a paragraph shown in serif font.
+</p>
+<p class="sansserif">
+   This is a paragraph shown in sans-serif font.
+</p> 
+<p class="monospace">
+   This is a paragraph shown in monospace font.
+</p> 
+<p class="cursive">
+   This is a paragraph shown in cursive font.
+</p> 
+<p class="fantasy">
+   This is a paragraph shown in fantasy font.
+</p> 
+
+</body>
+</html>
