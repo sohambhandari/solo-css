@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>vertical align property</title>
+<style>
+td.top{
+vertical-align: top;
+}
+td.middel{
+vertical-align: middel
+}
+td.bottom{
+vertical-align: bottom
+}
+</style>
+</head>
+<body>
+
+<table border="1" cellpadding="2" cellspacing="0" style="height: 150px;">
+  <tr>
+     <td class="top">Top</td>
+     <td class="middle">Middle</td>
+     <td class="bottom">Bottom</td>
+  </tr>
+</table
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>text shadow property</title>
+<style>
+h1{
+color: blue;
+font-size: 30pt;
+text-shadow: 5px 2px 4px grey;
+}
+</style>
+</head>
+<body>
+
+<h1>Text-shadow example</h1>
+</body>
+</html>
+
+
+<!--The text-shadow property adds shadow to text.
+It takes four values: the first value defines the distance of the shadow in the x (horizontal) direction,
+ the second value sets the distance in the y (vertical) direction,
+  the third value defines the blur of the shadow, and the fourth value sets the color. -->

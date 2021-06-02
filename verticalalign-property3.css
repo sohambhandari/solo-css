@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>vertical align property</title>
+<style>
+.main{
+height: 150px; weidth: 400px;
+background-color: lightskyblue;
+display: inline-table;
+}
+.paragraph{
+display: table-cell;
+vertical-align:middle;
+}
+</style>
+</head>
+<body>
+
+<div class="main">
+   <div class="paragraph">
+   This text is aligned to the middle
+   </div>
+
+</body>
+</html>

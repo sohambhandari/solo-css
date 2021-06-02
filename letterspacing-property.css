@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>letter spacing property</title>
+<style>
+p.normal{
+letter-spacing: normal;
+}
+p.positive{
+letter-spacing: 4px;
+}
+</style>
+</head>
+<body>
+
+<p class="normal">This paragraph has no additional letter-spacing applied.</p>
+<p class="positive ">This paragraph is letter-spaced at 4px.</p>
+
+</body>
+</html>
+
+
+<!-- we can also use the negitive values -->

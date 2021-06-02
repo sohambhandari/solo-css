@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>white space value</title>
+<style>
+p.pre{
+white-space: pre;
+}
+p.preline{
+white-space: preline;
+}
+p.prewrap{
+white-space: prewrap;
+}
+</style>
+</head>
+<body>
+
+<p class="pre"> 
+In the markup we have multiple            spaces 
+and a line break. 
+</p>
+<p class="preline"> 
+In the markup we have multiple            spaces 
+and a line break, but in the result multiple spaces are ignored. 
+</p>
+<p class="prewrap"> 
+In the markup we have              multiple 
+spaces and a line break.
+</p>
+
+</body>
+</html>
