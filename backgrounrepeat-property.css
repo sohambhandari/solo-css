@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>background repeat property</title>
+<style>
+body {
+  background-image: url("avatar.png");
+  background-repeat: repeat-x;
+}
+</style>
+</head>
+<body>
+
+<p>none</p>
+
+</body>
+</html>
+
+<!-- The repeat-x will repeat a background image only horizontally.
+The repeat-y will repeat a background-image only vertically. -->

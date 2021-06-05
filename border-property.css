@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>the border property</title>
+<style>
+p { 
+padding: 10px;
+border: 5px solid green;
+}
+</style>
+</head>
+<body>
+
+<p>This is an example of a solid border.</p>
+
+</body>
+</html>

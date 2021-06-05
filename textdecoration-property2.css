@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Links' Text Decoration</title>
+<style>
+a:link {
+text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<p><a href="http://www.sololearn.com" target="_blank">
+   This link has no underline.
+
+</a></p>
+</body>
+</html>

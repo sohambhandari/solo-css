@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>background color</title>
+<style>
+body {
+  background-color: #87CEFA
+}
+</style>
+</head>
+<body>
+
+<p>The background color of this page is set to LightSkyBlue.</p>
+
+</body>
+</html>
+
+<!-- The color of the background can be defined using three different formats: a color name, hexadecimal values, and RGB. -->

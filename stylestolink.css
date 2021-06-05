@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>setting style to link</title>
+<style>
+a.hover {
+color: red;
+}
+</style>
+</head>
+<body>
+
+<p><a href="http://www.sololearn.com" target="_blank">
+   This link is hovered when we mouse over it
+</a></p>
+</body>
+</html>
+
+
+<!--Links can be styled with any CSS property (e.g., color, font-family, background, etc.).
+In addition, links can be styled differently, depending on what state they are in. The following pseudo selectors are available:
+a:link - defines the style for normal unvisited links
+a:visited - defines the style for visited links
+a:active - a link becomes active once you click on it
+a:hover - a link is hovered when the mouse is over it -->

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>floating</title>
+<style>
+img {
+float:right;
+}
+</style>
+</head>
+<body>
+
+<p><img src="css_logo.png" />
+This paragraph has an image that is floated to the <strong>right.</strong> 
+It is highly recommended to add a margin to images so that the text does 
+not get too close to the image. If you want your text to be easily read, you 
+should always add a few pixels between words and borders, images, 
+and other content. 
+</p>
+</body>
+</html>

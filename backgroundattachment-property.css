@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>background attachment property</title>
+<style>
+body {
+  background-image: url("avtar.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+</style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p>Edit the code in the window to the left, and click "Run" to view the result.</p>
+<img src="avatar.png" alt="Avatar" style="width:200px">
+
+</body>
+</html>

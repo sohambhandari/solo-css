@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Setting the Mouse Cursor Style</title>
+<style>
+a:link {
+text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<span style="cursor:help;">
+do you need help?
+</span>
+ 
+</body>
+</html>

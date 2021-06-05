@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>empty cell property</title>
+<style>
+table {
+border-collapse: separate;
+empty-cells: hide;
+}
+</style>
+</head>
+<body>
+
+<table border="1">
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td></td>
+  </tr>
+</table
+
+</body>
+</html>
+
+<!--show: the borders of an empty cell are rendered
+hide: the borders of an empty cell are not drawn -->

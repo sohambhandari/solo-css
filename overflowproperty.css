@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>the overflow property</title>
+<style>
+div {
+width: 150px;
+height 150px;
+background-color: lightblue;
+float:left;
+}
+
+</style>
+</head>
+<body>
+
+<div>
+This text is inside the div element, which has a blue 
+background color and is floated to the left. We set a specific 
+height and width for the div element, and as you can see, 
+the content cannot fit. 
+</div>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>table layout property</title>
+<style>
+table {
+border-collapse: seprate;
+width: 100%;
+boder: 1px solid gray;
+}
+td {
+border: 1px solid gray;
+}
+table.auto {
+table-layout: auto;
+}
+table.fixed {
+table-layout: fixed;
+}
+
+</style>
+</head>
+<body>
+
+<p>Table-layout is set to <strong>auto</strong></p>
+<table class="auto">
+  <tr>
+    <td width=“10%">500.000.000.000.000</td>
+    <td width="90%">20.000</td>
+  </tr>
+</table>
+
+<p>Table-layout is set to <strong>fixed</strong></p>
+<table class="fixed">
+  <tr>
+    <td width="10%">500.000.000.000.000</td>
+    <td width="90%">20.000</td>
+  </tr>
+</table>
+</body>
+</html>

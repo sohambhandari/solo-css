@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>width and height</title>
+<style>
+div {
+border: 5px solid green;
+width: 90px;
+height: 90px;
+}
+</style>
+</head>
+<body>
+
+<div>The total width and height of this element is 100px.</div>
+
+</body>
+</html>
+

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>list image and position</title>
+<style>
+ul {
+list-style-image: url("avatar.png");
+list-style-position: inside;
+}
+</style>
+</head>
+<body>
+
+<p>The following list has list-style-position: <strong>inside</strong>.</p>
+<ul>
+   <li>Red</li>
+   <li>Green</li>
+   <li>Blue</li>
+</ul>
+</body>
+</html>

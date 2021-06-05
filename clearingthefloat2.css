@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clearing Floats</title>
+<style>
+.floating {
+float: right;
+}
+.clearing {
+clear:both;
+}
+</style>
+</head>
+<body>
+
+This paragraph is above the div element 
+and is not affected by the float right property. 
+<br/><br/>
+<div class="floating">
+   <img src="avatar.png" />
+</div>
+This paragraph comes after the div element 
+and is affected by the float right property. 
+<br/><br class="clearing"/>
+This paragraph is out of the floating group 
+and is not affected by the float right property.
+<br/> <br/>
+
+</body>
+</html>
